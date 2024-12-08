@@ -1,9 +1,14 @@
-DAY 09
+DAY 10
 
 read I/P from user ; command/env.variable /  input -run time 
 for loop 
 print file 
 handle known error (except / break )		
 
-DAY 10 
-
+DAY 11 
+Dictionary : key value pair 
+get pull request info on a python 
+a. request module 
+b. API (URL) - PULL get url from google 
+c. JSON - dictionary 
+d. print 
